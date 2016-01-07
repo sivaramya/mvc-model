@@ -1,1 +1,2 @@
-# mvc-modelfhgfh
+# mvc-model
+retrieve datas from database
